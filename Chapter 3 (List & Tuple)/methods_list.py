@@ -16,7 +16,6 @@ print(Marks.sort(reverse=True))
 
 print(Marks)
 
-#P2
 
 list=[12,13,58,69]
 print(sum(list))

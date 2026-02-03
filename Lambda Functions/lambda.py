@@ -28,11 +28,9 @@ total = reduce(lambda a, b: a + b, nums)
 print(total)
 
 
-
 data = [(1, 3), (4, 1), (2, 5)]
 sorted_data = sorted(data, key=lambda x: x[1])
 print(sorted_data)
-
 
 marks = {"Math": 80, "Sci": 95, "Eng": 70}
 sorted_marks = sorted(marks.items(), key=lambda x: x[1])
@@ -89,6 +87,7 @@ for ch in text:
 
 print("Vowels:", v)
 print("Consonants:", c)
+
 
 
 class Student:
