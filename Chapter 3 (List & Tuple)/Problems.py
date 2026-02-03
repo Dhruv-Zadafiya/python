@@ -25,7 +25,6 @@ Marks.append(v5)
 v6= int(input("Enter the Marks here: "))
 Marks.append(v6)
 
-
 Marks.sort()
 
 print(Marks)
