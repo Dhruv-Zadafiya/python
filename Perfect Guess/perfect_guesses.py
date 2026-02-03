@@ -3,7 +3,6 @@
 # Created by Dhruv Zadafiya
 import random 
 
-
 number = random.randint(1, 100)
 guess = None
 
