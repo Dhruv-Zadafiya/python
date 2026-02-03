@@ -30,8 +30,6 @@ Marks.sort()
 
 print(Marks)
 
-
-
 list=[12,13,58,69]
 
 print(sum(list))
