@@ -28,3 +28,18 @@ list.sort()
 print(list)
 list.sort(reverse=True)
 print(list)
+
+
+
+marks=[85,96,85,75,86,94,92]
+
+
+marks.sort()
+print(marks)
+
+
+tuple=(0, 2 ,48,6,7,6,8,4,6,9,5,6,7,6)
+
+
+tuple.count(6)
+print(tuple.count(6))

@@ -6,3 +6,11 @@ Basket[2]="Guava"
 
 print(Basket)
 print(Basket[1:5])
+
+
+# List is a mutable
+# List is an ordered
+# List is an indexed
+# List is contain duplicate values
+# In list slicing possible
+# List can appear diffreent data types
